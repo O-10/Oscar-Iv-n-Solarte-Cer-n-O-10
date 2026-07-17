@@ -1,3 +1,19 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Oscar Iván Solarte Cerón
+O-10/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscar Iván Solarte Cerón
+O-10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar Iván Solarte Cerón
+O-10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscar Iván Solarte Cerón
+O-10&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
+
 # 💫 About Me:
 Profesional con 2 años de trayectoria aplicando análisis de datos, automatización e inteligencia artificial en entornos empresariales. Especializado en el desarrollo de flujos RPA con Python, visualización estratégica en<br>Power BI, consultas y gestión de bases de datos relacionales (SQL Server), y prototipos de IA generativa y predictiva. Experiencia práctica en análisis de series temporales (descomposición STL), clustering automático K-Means,<br>embeddings semánticos y generación de insights accionables a partir de datos no estructurados. Comprometido con la automatización de procesos, la calidad del dato y el desarrollo de soluciones que respalden la toma de decisiones basada en evidencia.<br><br>CERTIFICACIONES: <br>Dominio DAX y External Tools con Power BI<br>Nivel Avanzado<br>Levo Learning Center<br>Código: DDETPBI202512978A<br><br>Dominio Datos con SQL Server<br>Nivel Avanzado<br>Levo Learning Center<br>Código: DDSQL202613330A<br><br>Dominio Datos con Python  para Análisis de datos<br>Nivel Avanzado<br>Levo Learning Center<br>Código: YTH202613352A<br><br>Profesional en Seguridad y Salud en el Trabajo<br>Universidad del Quindio.<br>Res. 3702 de 2023<br>Res. 615 de 2014<br>
 
